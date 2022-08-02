@@ -1,0 +1,13 @@
+@import "variables";
+
+$red-backgound: red;
+
+body {
+  background: $red-backgound;
+  color: $bg-green;
+}
+
+.footer {
+  background: $red-backgound;
+  color: white;
+}
